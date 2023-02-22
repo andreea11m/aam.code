@@ -16,9 +16,4 @@ int main () {
     return 0;
 }
 
-
-
-
 //Write a program that reads an integer from the keyboard and displays the number in base 10, base 8, and base 16.
-//Scrieţi un program care citeşte un număr întreg de la tastatură şi afişează numărul în baza 10, baza 
-//8 şi baza 16.
