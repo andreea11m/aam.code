@@ -30,7 +30,7 @@ int main () {
             }
 
             // Display the sum and the two terms
-            printf ("%d+%d=%d\n", i == 1 ? a : (i == 2 ? b : c), j == 1 ? a : (j == 2 ? b : c), sum);
+            printf ("%d + %d = %d\n", i == 1 ? a : (i == 2 ? b : c), j == 1 ? a : (j == 2 ? b : c), sum);
         }
     }
 
