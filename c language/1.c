@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Write a program that reads an integer from the keyboard and displays the number in base 10, base 8, and base 16.s
+
 //@aam.codes
 
 int main () {
@@ -15,5 +17,3 @@ int main () {
 
     return 0;
 }
-
-//Write a program that reads an integer from the keyboard and displays the number in base 10, base 8, and base 16.
