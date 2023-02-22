@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+//Given 3 positive numbers (read from the keyboard), display all possible sums of 2 numbers. 
+//The display should highlight the summands as well as the sum itself. For example, for the numbers 1, 2, 3,
+//the output should be: 1+2=3, 1+3=4, 2+3=5.
+
 //@aam.codes
 
 int main () {
@@ -26,9 +30,7 @@ int main () {
             }
 
             // Display the sum and the two terms
-            printf ("%d+%d=%d\n", i == 1 ? a : (i == 2 ? b : c), 
-            j == 1 ? a : (j == 2 ? b : c),
-            sum);
+            printf ("%d+%d=%d\n", i == 1 ? a : (i == 2 ? b : c), j == 1 ? a : (j == 2 ? b : c), sum);
         }
     }
 
